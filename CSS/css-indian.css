@@ -1,0 +1,41 @@
+#box{
+    width: 500px;
+    height: 700px;
+    border:2.5px solid lightslategray ;
+}
+
+.indian{
+ width: 150px; 
+  height: 150px;
+  border-radius: 50%; 
+  object-fit: cover; 
+  float: left;
+  margin: 0ox 0px 0px 0px;
+  
+  
+  
+}
+
+.recipy-list {
+    display: flex;
+    flex-direction: row; 
+    align-items: left; 
+    text-align: right; 
+    width: 200px; 
+    padding: 0px 0pc 0px;
+    
+   
+  }
+
+  .item-name{
+    color: #000;
+    padding: 0 0 2px;
+    line-height: 1.2em;
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    text-shadow: 0 1px 0 #fff;
+    
+   
+  }
