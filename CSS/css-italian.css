@@ -4,7 +4,10 @@
     border:2.5px solid lightslategray ;
 }
 
-.indian{
+.container{
+    display: flex;
+}
+.italian{
   width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -27,6 +30,7 @@
   padding: 0px;
   gap: 10px; 
   justify-content: space-between;
+  text-decoration: none;
 
   
     
@@ -42,6 +46,7 @@
     text-align: center;
     font-family: "Merriweather", serif;
     text-shadow: 0 1px 0 #fff;
+    text-decoration: none;
     
 
 
